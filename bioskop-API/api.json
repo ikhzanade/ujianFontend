@@ -1,0 +1,407 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ikhzan",
+      "role": "admin",
+      "password": "aing123",
+      "transaction": [
+        {
+          "title": "ROGUE ONE STAR WARS",
+          "qty": 2,
+          "total": 70000
+        },
+        {
+          "title": "The Greatest ShowMan",
+          "qty": 1,
+          "total": 35000
+        },
+        {
+          "title": "TOY STORY 4",
+          "qty": 1,
+          "total": 35000
+        },
+        {
+          "title": "MEN IN BLACK: INTERNATIONAL",
+          "qty": 1,
+          "total": 35000
+        },
+        {
+          "title": "MEN IN BLACK: INTERNATIONAL",
+          "qty": 1,
+          "total": 35000
+        },
+        {
+          "title": "TOY STORY 4",
+          "qty": 1,
+          "total": 35000
+        },
+        {
+          "title": "MEN IN BLACK: INTERNATIONAL",
+          "qty": 1,
+          "total": 35000
+        },
+        {
+          "title": "KOKI-KOKI CILIK 2",
+          "qty": 2,
+          "total": 70000
+        },
+        {
+          "title": "TOY STORY 4",
+          "qty": 1,
+          "total": 35000
+        },
+        {
+          "title": "ANNA",
+          "qty": 2,
+          "total": 70000
+        },
+        {
+          "title": "MEN IN BLACK: INTERNATIONAL",
+          "qty": 1,
+          "total": 35000
+        },
+        {
+          "title": "TOY STORY 4",
+          "qty": 1,
+          "total": 35000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "maman",
+      "password": "maman123",
+      "transaction": []
+    },
+    {
+      "username": "ade",
+      "password": "ade123",
+      "id": 3,
+      "transaction": []
+    },
+    {
+      "username": "ikhzan@gmail.com",
+      "role": "user",
+      "id": 4,
+      "transaction": []
+    },
+    {
+      "username": "bwxrel@gmail.com",
+      "role": "user",
+      "id": 5,
+      "transaction": []
+    }
+  ],
+  "movies": [
+    {
+      "title": "TOY STORY 4",
+      "sutradara": "Josh Cooley",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155929906195254_452x647.jpg",
+      "genre": "Animation",
+      "playingAt": [
+        "9",
+        "20"
+      ],
+      "duration": "114",
+      "harga": 30000,
+      "sinopsis": "Woody, Buzz Lightyear, dan anggota geng lainnya memulai perjalanan dengan Bonnie dan mainan baru bernama Forky.Perjalanan yang penuh petualangan berubah menjadi reuni yang tak terduga ketika Woody bertemu dengan Bo Peep.Sebuah perjalanan bersama teman-teman lama dan baru mengungkapkan dunia sangatlah besar untuk sebuah mainan.",
+      "id": 1,
+      "seats": 100,
+      "booked": [
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "title": "ANNA",
+      "harga": 30000,
+      "genre": "Action",
+      "playingAt": [
+        9
+      ],
+      "duration": 118,
+      "sutradara": "Luc Besson",
+      "sinopsis": "Di balik keanggunan Anna Poliatova (Sasha Luss) terdapat sebuah rahasia. Model cantik ini adalah senjata yang sangat mematikan.Kemampuannya membunuh di lapangan menjadikan Anna salah satu agen rahasia yang paling ditakuti.",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155866895248609_300x430.jpg",
+      "seats": 80,
+      "booked": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          2
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "title": "MEN IN BLACK: INTERNATIONAL",
+      "harga": 30000,
+      "genre": "Action",
+      "sutradara": "F. Gary Gray",
+      "playingAt": [
+        14,
+        16,
+        22
+      ],
+      "duration": "115",
+      "sinopsis": "Men in Black selalu melindungi Bumi dari ancaman alam semesta. Dalam petualangan baru ini, Agen H (Chris Hemsworth) dan rekannya agen M (Tessa Thompson) menangani kasus terbesarnya saat spesies maut bernama Hive mengancam organisasi Men in Black.",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/15601528435034_300x430.jpg",
+      "seats": 60,
+      "booked": [
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "title": "KOKI-KOKI CILIK 2",
+      "genre": "Family",
+      "sinopsis": "Libur telah tiba artinya Cooking Camp akan kembali dibuka. Bima, Alfa, Kevin, Niki, Mely dan Key datang ke camp dengan niat reuni malah dikejutkan bahwa camp sudah tutup. Ini semua berawal dari omongan Evan, mantan Chef terkenal, yang meragukan kredibilitas Grant sebagai pengajar di camp. Sementara keluarga besar Pak Malik ingin menjual lahan camp. Grant yang terpuruk kemudian dihibur anak-anak agar mau membuka Cooking Camp lagi. Mereka mempunyai ide untuk menjual makanan di food truck agar bisa mengumpulkan modal camp. Usaha mereka dibantu oleh Tante Adel dan Adit, keponakan Adel yang lucu sekaligus pemurung sejak kematian Mamanya. Konflik bermunculan ketika menjual makanan tidak segampang yang mereka kira. Ditambah sandwich buatan Adit dituduh hasil jiplakan restoran yang dikelola oleh Evan yang ternyata adalah alumni Cooking Camp angkatan pertama. Kini anak-anak harus bersatu dan bekerja keras untuk mempertahankan Cooking Camp.",
+      "playingAt": [
+        9,
+        20
+      ],
+      "duration": 91,
+      "harga": 30000,
+      "sutradara": "Viva Westi",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155833340228800_300x430.jpg",
+      "seats": 100,
+      "booked": [
+        [
+          0,
+          13
+        ],
+        [
+          0,
+          14
+        ],
+        [
+          0,
+          15
+        ],
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          18
+        ],
+        [
+          1,
+          19
+        ],
+        [
+          2,
+          15
+        ],
+        [
+          2,
+          16
+        ],
+        [
+          2,
+          17
+        ],
+        [
+          4,
+          18
+        ],
+        [
+          4,
+          19
+        ],
+        [
+          3,
+          17
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          3,
+          16
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ]
+      ]
+    },
+    {
+      "title": "The Greatest ShowMan",
+      "genre": "Drama",
+      "sinopsis": "The Greatest Showman adalah film musikal yang merayakan kelahiran bisnis pertunjukan dan perasaan kagum yang kita rasakan ketika mimpi bisa jadi kenyataan. Terinspirasi dari kisah perjuangan hidup dan imajinasi P.T. Barnum. The Greatest Showman mengisahkan tentang seorang visioner yang membangun dari nol untuk menciptakan pertunjukan mengagumkan yang menjadi sensasi dunia.",
+      "playingAt": [
+        9,
+        14
+      ],
+      "duration": "210",
+      "harga": 30000,
+      "sutradara": "Michael Gracey",
+      "image": "https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/4b/f24a35e9bf4306ffd54a4e75e228586a_500x735.jpg?t=1519038212",
+      "id": 5,
+      "seats": 80,
+      "booked": [
+        [
+          0,
+          10
+        ],
+        [
+          0,
+          11
+        ],
+        [
+          0,
+          12
+        ],
+        [
+          1,
+          13
+        ],
+        [
+          1,
+          14
+        ],
+        [
+          1,
+          15
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          3,
+          14
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          3,
+          16
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "title": "SPIDER-MAN: FAR FROM HOME",
+      "genre": "Action",
+      "sinopsis": "Petualangan Peter Parker (Tom Holland) kali ini akan menuju Eropa. Bersama teman-teman sekolahnya MJ (Zendaya), Ned (Jacob Batalon), Betty (Beras Angourie) dan Flash (Tony Revolori). ",
+      "playingAt": [
+        9,
+        16,
+        22
+      ],
+      "duration": "120",
+      "harga": 30000,
+      "sutradara": "Jon Watts",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/15610878872315_300x430.jpg",
+      "id": 6,
+      "seats": 100,
+      "booked": []
+    },
+    {
+      "id": 7,
+      "title": "X-MEN: DARK PHOENIX",
+      "harga": 30000,
+      "genre": "Action",
+      "playingAt": [
+        13,
+        15,
+        17,
+        21
+      ],
+      "duration": "114",
+      "sutradara": "Simon Kinberg",
+      "sinopsis": "Ini adalah kisah salah satu karakter X-Men yang paling dicintai, Jean Grey, saat ia berevolusi menjadi DARK PHOENIX yang ikonik. Sewaktu menjalankan misi penyelamatan di luar angkasa yang mengancam jiwa, Jean dihantam oleh kekuatan kosmik yang mengubahnya menjadi salah satu mutan paling kuat dari semua. Bergulat dengan kekuatan yang semakin tidak stabil ini serta masa lalu kelam pribadinya sendiri, Jean kehilangan kendali, memecah keluarga X-Men dan mengancam akan menghancurkan planet kita ini. Film ini adalah film X-Men yang paling intens dan emosional yang pernah dibuat. Ini adalah puncak dari 20 tahun seri film X-Men, dimana keluarga mutan yang kita kenal dan cintai harus menghadapi musuh mereka yang paling dahsyat - salah satu dari mereka sendiri.",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155842215986391_300x430.jpg",
+      "seats": 100,
+      "booked": [
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "title": "SABYAN MENJEMPUT MIMPI",
+      "harga": 30000,
+      "genre": "Drama",
+      "playingAt": [
+        13,
+        15,
+        21
+      ],
+      "duration": "94",
+      "sutradara": "Amin Ishaq",
+      "sinopsis": "SABYAN, siapa yang ga kenal mereka sekarang. Bahkan grup music ini sangat populer di kalangan kaum milenial. Padahal genre music yang mereka bawa tidaklah biasa. GAMBUS.. ya Gambus musiknya. Di bawakan dengan penuh penghayatan oleh NISSA sang vokalis utama. Seorang gadis cantik dan kharismatik dengan suara yang khas berhasil menghipnotis orang yang mendengar musik SABYAN. Banyak yang ga tau, bagaimana mereka berkisah. Bagaimana anak anak muda yang di pimpin oleh AYUS ini bisa bersatu dalam satu nadi bernama GAMBUS. Banyak kisah kisah menarik di balik itu. Perjuangan AYUS, NISSA dan teman teman SABYAN dalam menggapai sebuah mimpi",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155842097061702_300x430.jpg",
+      "seats": 100,
+      "booked": [
+        [
+          2,
+          3
+        ]
+      ]
+    }
+  ],
+  "cart": [],
+  "history": []
+}
